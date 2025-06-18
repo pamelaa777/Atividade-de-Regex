@@ -1,0 +1,15 @@
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/obj/Debug/net9.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/obj/Debug/net9.0/Atividade.AssemblyInfoInputs.cache
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/obj/Debug/net9.0/Atividade.AssemblyInfo.cs
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/obj/Debug/net9.0/Atividade.csproj.CoreCompileInputs.cache
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/obj/Debug/net9.0/Atividade.sourcelink.json
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/bin/Debug/net9.0/Atividade
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/bin/Debug/net9.0/Atividade.deps.json
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/bin/Debug/net9.0/Atividade.runtimeconfig.json
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/bin/Debug/net9.0/Atividade.dll
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/bin/Debug/net9.0/Atividade.pdb
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/obj/Debug/net9.0/Atividade.dll
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/obj/Debug/net9.0/refint/Atividade.dll
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/obj/Debug/net9.0/Atividade.pdb
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/obj/Debug/net9.0/Atividade.genruntimeconfig.cache
+/Users/estagio/LucasAlves/Atividade-de-Regex/Atividade/obj/Debug/net9.0/ref/Atividade.dll
